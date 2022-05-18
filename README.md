@@ -1,2 +1,3 @@
 #  Progress steps
-## Credit to Traversy Media
+#### https://jarek200.github.io/Progress-steps/
+###### Credit to Traversy Media
